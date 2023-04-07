@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.1e80900f.css",
+    "main.js": "/robofriends/static/js/main.7e26bf00.js",
+    "static/js/787.3bf0dcc2.chunk.js": "/robofriends/static/js/787.3bf0dcc2.chunk.js",
+    "static/media/MangoGellato-nR0z0.woff": "/robofriends/static/media/MangoGellato-nR0z0.5b2c77d5bcc99316901d.woff",
+    "index.html": "/robofriends/index.html",
+    "main.1e80900f.css.map": "/robofriends/static/css/main.1e80900f.css.map",
+    "main.7e26bf00.js.map": "/robofriends/static/js/main.7e26bf00.js.map",
+    "787.3bf0dcc2.chunk.js.map": "/robofriends/static/js/787.3bf0dcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e80900f.css",
+    "static/js/main.7e26bf00.js"
+  ]
+}
