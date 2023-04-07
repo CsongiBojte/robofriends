@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mango Gellato Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mango Gellato Regular'), url('MangoGellato-nR0z0.woff') format('woff');
+}
+
+.app h1 {
+    font-family: 'Mango Gellato Regular';
+    font-size: 4rem;
+    letter-spacing: 5px;
+}
+
